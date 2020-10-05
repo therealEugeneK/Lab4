@@ -1,1 +1,1 @@
-# Lab3
+This lab is mainly an addition to the code that's found in lab2. This program simply converts the already created array of artists from the second lab into a linked list. The linked list is then sorted via the Collections interface. The newly sorted list is then printed to an output file using an Iterator.
